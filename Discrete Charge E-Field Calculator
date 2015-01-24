@@ -3,11 +3,6 @@
 # Purpose: This program is designed to calculate the electrostatic field
 #by asking the user for the positions and charges of each particle,
 #then for the position and charge of the test charge. Language - Python
-# Author:      Kaliel
-#
-# Created:     9/24/14
-# Copyright:   (c) Kaliel 2014
-# Licence:
 #-------------------------------------------------------------------------------
 
 from math import *
